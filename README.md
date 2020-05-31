@@ -1,7 +1,17 @@
 # Java-Pool-Party
-Creation of a Maze Solver by going through various Java notions
-
 ## ***Maze Solver creation included knowledge checks of the following:***
+
+
+```java
+// multidimensional array solved by backtracking
+//  0 = wall; 1 = path; 2 = destination;
+int[][] maze = {
+  {0, 1, 1, 0},
+  {1, 1, 1, 1},
+	{0, 0, 2, 1}
+};
+```
+
 
 #### ***Java fundamentals***
 #### ***Scanner - file readers***
