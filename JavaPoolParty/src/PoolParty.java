@@ -9,6 +9,10 @@ public class PoolParty {
 		// CollectionFramework.FileScanner("names.txt");
 		// CollectionFramework.CollectionExecutor();
 		// CollectionFramework.IteratorExercise();
-		CollectionFramework.ListIteratorExercise();
+		// CollectionFramework.ListIteratorExercise();
+		
+		MultiDimensional_Jagged_Array.BrowsingMultidimensionalArrays();
+		
+		
 	}
 }
