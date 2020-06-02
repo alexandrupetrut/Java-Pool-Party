@@ -1,5 +1,3 @@
-import java.io.FileNotFoundException;
-
 public class PoolParty {
 
 	public static void main(String[] args)
@@ -11,8 +9,6 @@ public class PoolParty {
 		// CollectionFramework.IteratorExercise();
 		// CollectionFramework.ListIteratorExercise();
 		
-		MultiDimensional_Jagged_Array.BrowsingMultidimensionalArrays();
-		
-		
+		MultiDimensional_Jagged_Array.BrowsingMultidimensionalArrays();		
 	}
 }
