@@ -8,7 +8,7 @@
 int[][] maze = {
   {0, 1, 1, 0},
   {1, 1, 1, 1},
-	{0, 0, 2, 1}
+  {0, 0, 2, 1}
 };
 ```
 
@@ -20,5 +20,4 @@ int[][] maze = {
 #### ***OOP fundamentals***
 #### ***Parsing / Hashing (HashMap, HashSets & hashCode)***
 #### ***Wildcards and casting lists***
-#### ***Gradle Setup, Packages***
 #### ***Check/Unchecked & Thrown Exceptions***
