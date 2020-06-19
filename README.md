@@ -20,5 +20,5 @@ int[][] maze = {
 #### ***OOP fundamentals***
 #### ***Parsing / Hashing (HashMap, HashSets & hashCode)***
 #### ***Wildcards and casting lists***
-#### ***Gradle Setup, Packages***
+#### ***Packages***
 #### ***Check/Unchecked & Thrown Exceptions***
