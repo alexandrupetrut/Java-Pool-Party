@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.*;
 
 public class Generics {
 
@@ -14,10 +14,11 @@ public class Generics {
 		// let's say we expected people to only put integers here
 		//System.out.println((String)messages.get(1));
 
-		Item<Person> item = new Item<Person>();
+		Item<Person, Person> item = new Item<Person, Person>();
 		Person p = new Person("hello", "mate");
 		item.setX(p);
-		Person p2 = item.getX();
+		item.setY(p);
+		Person p2 = item.getY();
 		
 	}
 
