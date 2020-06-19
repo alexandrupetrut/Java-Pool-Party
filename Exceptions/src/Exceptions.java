@@ -12,6 +12,7 @@ public class Exceptions {
 		// ArrayList<Integer> x = new ArrayList();
 		// x.get(5);
 		
+		//CHECKED EXCEPTIONS => HAVE TO BE CAUGHT USING "TRY-CATCH" OR "THROWS..."
 		// compilation errors => main() needs to throw the exception, its passed up the chain only
 		doSomething();
 		
